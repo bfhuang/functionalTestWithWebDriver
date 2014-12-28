@@ -21,9 +21,6 @@
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
   </component>
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
-  <component name="EntryPointsManager">
-    <entry_points version="2.0" />
-  </component>
   <component name="GradleUISettings">
     <setting name="root" />
   </component>
@@ -171,7 +168,7 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/functionalTestWithWebDriver.iml" filepath="$PROJECT_DIR$/functionalTestWithWebDriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functionalTestWithSelenium.iml" filepath="$PROJECT_DIR$/functionalTestWithSelenium.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">

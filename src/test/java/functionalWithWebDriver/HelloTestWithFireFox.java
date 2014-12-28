@@ -1,22 +1,21 @@
-package functional;
+package functionalWithWebDriver;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.safari.SafariDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
 
-public class HelloTestWithSafari {
+public class HelloTestWithFireFox {
 
     private WebDriver webDriver;
 
     @Before
     public void setup() {
-        webDriver = new SafariDriver();
+        webDriver = new FirefoxDriver();
     }
 
 

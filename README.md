@@ -1,0 +1,1 @@
+This is very simple example of using web driver to write the functional test

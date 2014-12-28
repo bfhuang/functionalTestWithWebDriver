@@ -11,7 +11,7 @@ dependencies {
     compile "org.springframework:spring-webmvc:4.0.5.RELEASE"
 
     testCompile "junit:junit:4.8.2",
-            "org.seleniumhq.selenium:selenium-java:2.43.1"
+            "org.seleniumhq.selenium:selenium-server:2.21.0"
 }
 
 task "create-dir" << {
